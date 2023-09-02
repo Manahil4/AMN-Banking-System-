@@ -1,3 +1,3 @@
-for j in range(1,4):
-    print('3'*j)
-    
+print(3)
+print(33)
+print(333)
